@@ -1,6 +1,6 @@
 # DA623_Tutorial_200102096
 
-## I have uploaded "CWS Project" folder which has the jupyter notebook(Computing_with_Signals.ipynb) and all the data (sound, images) I have used.
+### I have uploaded "CWS Project" folder which has the jupyter notebook(Computing_with_Signals.ipynb) and all the data (sound, images) I have used.
 
 References
 Sound files:
